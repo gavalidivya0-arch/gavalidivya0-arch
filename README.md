@@ -3,46 +3,46 @@
 </p>
 <h1>About Me </h1>
 
-### 💻 Aspiring Software Engineer | CSE (Data Science) Student | Technology & Innovation Enthusiast
+###  Aspiring Software Engineer | CSE (Data Science) | Developer & Technology Enthusiast
 
 I'm **Divya Gavali**, a **B.Tech Computer Science Engineering student specializing in Data Science** at **Nxt Wave Institute of Advanced Technologies**, with an expected graduation year of **2029**.
 
-I'm passionate about **software development, data science, artificial intelligence, and building real-world technology solutions**. I enjoy turning ideas into functional, responsive, and user-friendly applications while continuously improving my programming and problem-solving skills.
+I'm passionate about **software development, data science, artificial intelligence, and building practical technology solutions**. I enjoy transforming ideas into responsive, interactive, and user-focused applications while continuously strengthening my programming and problem-solving abilities.
 
-### 🚀 What I'm Currently Exploring
+### 🚀 Currently
 
-* 🐍 Strengthening my skills in **Python**
-* ⚡ Developing programming and **problem-solving skills with C++**
-* 🌐 Building responsive applications using **HTML, CSS & JavaScript**
+* 🌱 Learning and strengthening **Python & C++**
+* 💻 Building responsive web applications using **HTML, CSS & JavaScript**
 * 📊 Exploring **Data Science, AI & Machine Learning**
-* 🔌 Working with **APIs and real-world datasets**
-* 🧠 Improving **Data Structures & Algorithms**
-* 🛠️ Building practical projects to gain hands-on experience
+* 🔗 Working with **APIs and real-world datasets**
+* 🧠 Improving **Data Structures, Algorithms & problem-solving**
+* 🛠️ Developing practical projects to gain hands-on experience
+* 🏆 Exploring **hackathons, open-source and collaborative opportunities**
 
-### 💡 What I Like to Build
+### 💡 What I Do
 
-I believe the best way to learn technology is by **building real projects**. I'm interested in creating applications that combine **clean UI/UX, useful functionality, APIs, data, and real-world problem solving**.
+I enjoy **learning by building** and experimenting with technologies that can solve real-world problems. My interests span across:
 
-My areas of interest include:
+* 🌐 **Web Development & UI/UX**
+* 🐍 **Python & C++ Programming**
+* 📊 **Data Science & Data-Driven Applications**
+* 🤖 **Artificial Intelligence & Machine Learning**
+* 🔌 **API-Based Applications**
+* 🌱 **AgriTech & Smart Farming**
+* 💡 **Real-World Technology Solutions**
 
-🌱 **AgriTech & Smart Farming** • 🤖 **AI & Machine Learning** • 📊 **Data Science** • 🌐 **Web Development** • 🔗 **API-Based Applications** • 💡 **Real-World Solutions**
+### 🎯 Career Focus
 
-### 🎯 My Goal
+My goal is to grow into a **skilled Software Engineer** capable of designing and developing reliable, scalable, and meaningful technology solutions.
 
-My goal is to grow into a **skilled Software Engineer** capable of designing and developing reliable, impactful technology solutions. I aim to strengthen my technical foundation through **projects, hackathons, open-source contributions, collaboration, and continuous learning**.
+I'm focused on building a strong foundation in **programming, software engineering, data, and AI**, while gaining practical experience through **projects, hackathons, open-source contributions, and collaboration**.
 
-I'm always looking for opportunities to **learn from others, solve meaningful problems, experiment with new technologies, and turn ideas into working solutions**.
+> **Learn → Build → Solve → Improve → Repeat.**
 
-### 🌱 My Learning Philosophy
-
-> **Learn → Build → Break → Understand → Improve → Repeat.**
-
-I believe every project, challenge, and mistake is an opportunity to become a better developer. I'm currently building my skills and portfolio step by step, with a focus on **curiosity, consistency, creativity, and continuous improvement**.
+I'm always open to **learning, collaboration, innovative projects, hackathons, and opportunities to contribute to the developer community.**
 
 ### 🌐 Connect With Me
 
-💻 GitHub :- https://github.com/gavalidivya0-arch<br>
-💼 LinkedIn :- https://www.linkedin.com/in/divya-gavali-b30106341<br>
-📧 Email :- [gavalidivya0@gmail.com](mailto:gavalidivya0@gmail.com)
-
-
+💻 **GitHub:** [gavalidivya0-arch](https://github.com/gavalidivya0-arch)
+💼 **LinkedIn:** [Divya Gavali](https://www.linkedin.com/in/divya-gavali-b30106341)
+📧 **Email:** [gavalidivya0@gmail.com](mailto:gavalidivya0@gmail.com)
