@@ -11,25 +11,25 @@ I'm passionate about **software development, data science, artificial intelligen
 
 ### 🚀 Currently
 
-* 🌱 Learning and strengthening **Python & C++**
-* 💻 Building responsive web applications using **HTML, CSS & JavaScript**
-* 📊 Exploring **Data Science, AI & Machine Learning**
-* 🔗 Working with **APIs and real-world datasets**
-* 🧠 Improving **Data Structures, Algorithms & problem-solving**
-* 🛠️ Developing practical projects to gain hands-on experience
-* 🏆 Exploring **hackathons, open-source and collaborative opportunities**
+*  Learning and strengthening **Python & C++**
+*  Building responsive web applications using **HTML, CSS & JavaScript**
+*  Exploring **Data Science, AI & Machine Learning**
+*  Working with **APIs and real-world datasets**
+*  Improving **Data Structures, Algorithms & problem-solving**
+*  Developing practical projects to gain hands-on experience
+*  Exploring **hackathons, open-source and collaborative opportunities**
 
 ### 💡 What I Do
 
 I enjoy **learning by building** and experimenting with technologies that can solve real-world problems. My interests span across:
 
-* 🌐 **Web Development & UI/UX**
-* 🐍 **Python & C++ Programming**
-* 📊 **Data Science & Data-Driven Applications**
-* 🤖 **Artificial Intelligence & Machine Learning**
-* 🔌 **API-Based Applications**
-* 🌱 **AgriTech & Smart Farming**
-* 💡 **Real-World Technology Solutions**
+*  **Web Development & UI/UX**
+*  **Python & C++ Programming**
+*  **Data Science & Data-Driven Applications**
+*  **Artificial Intelligence & Machine Learning**
+*  **API-Based Applications**
+*  **AgriTech & Smart Farming**
+* **Real-World Technology Solutions**
 
 ### 🎯 Career Focus
 
@@ -43,6 +43,6 @@ I'm always open to **learning, collaboration, innovative projects, hackathons, a
 
 ### 🌐 Connect With Me
 
-💻 **GitHub:** [gavalidivya0-arch](https://github.com/gavalidivya0-arch)
-💼 **LinkedIn:** [Divya Gavali](https://www.linkedin.com/in/divya-gavali-b30106341)
+💻 **GitHub:** [gavalidivya0-arch](https://github.com/gavalidivya0-arch)<br>
+💼 **LinkedIn:** [Divya Gavali](https://www.linkedin.com/in/divya-gavali-b30106341)<br>
 📧 **Email:** [gavalidivya0@gmail.com](mailto:gavalidivya0@gmail.com)
