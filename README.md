@@ -41,8 +41,8 @@ I believe every project, challenge, and mistake is an opportunity to become a be
 
 ### 🌐 Connect With Me
 
-💻 **GitHub **:- https://github.com/gavalidivya0-arch<br>
-💼 **LinkedIn **:- https://www.linkedin.com/in/divya-gavali-b30106341<br>
-📧 **Email** :- [gavalidivya0@gmail.com](mailto:gavalidivya0@gmail.com)
+💻 GitHub :- https://github.com/gavalidivya0-arch<br>
+💼 LinkedIn :- https://www.linkedin.com/in/divya-gavali-b30106341<br>
+📧 Email :- [gavalidivya0@gmail.com](mailto:gavalidivya0@gmail.com)
 
 
