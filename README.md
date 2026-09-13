@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./Github-Banner.png" width="100%" alt="Divya Gavali GitHub Banner">
 </p>
-# 👋 Hi, I'm Divya Gavali
+<h1>Hi, I'm Divya Gavali </h1>
 
 ### 💻 Aspiring Software Engineer | CSE (Data Science) Student | Technology & Innovation Enthusiast
 
