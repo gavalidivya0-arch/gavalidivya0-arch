@@ -43,7 +43,7 @@ I believe every project, challenge, and mistake is an opportunity to become a be
 
 I'm always open to collaboration, hackathons, open-source projects, innovative ideas, and opportunities to learn and grow with the developer community.
 
-📧 Email: gavalidivya0@gmail.com
-💻 GitHub: gavalidivya0-arch
+📧 Email: gavalidivya0@gmail.com</br>
+💻 GitHub: gavalidivya0-arch</br>
 💼 LinkedIn: Divya Gavali
 
