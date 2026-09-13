@@ -43,6 +43,6 @@ I'm always open to **learning, collaboration, innovative projects, hackathons, a
 
 ### 🌐 Connect With Me
 
-💻 **GitHub:- ** [gavalidivya0-arch](https://github.com/gavalidivya0-arch)<br>
-💼 **LinkedIn:- ** [Divya Gavali](https://www.linkedin.com/in/divya-gavali-b30106341)<br>
-📧 **Email:- ** [gavalidivya0@gmail.com](mailto:gavalidivya0@gmail.com)
+💻 GitHub:-  [gavalidivya0-arch](https://github.com/gavalidivya0-arch)<br>
+💼 LinkedIn:-  [Divya Gavali](https://www.linkedin.com/in/divya-gavali-b30106341)<br>
+📧 Email:-  [gavalidivya0@gmail.com](mailto:gavalidivya0@gmail.com)
