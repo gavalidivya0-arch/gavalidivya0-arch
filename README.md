@@ -39,9 +39,11 @@ I'm always looking for opportunities to **learn from others, solve meaningful pr
 
 I believe every project, challenge, and mistake is an opportunity to become a better developer. I'm currently building my skills and portfolio step by step, with a focus on **curiosity, consistency, creativity, and continuous improvement**.
 
-### 🤝 Let's Connect & Build
+🤝 Let's Connect
 
-I'm open to **collaboration, hackathons, open-source projects, innovative ideas, and opportunities to learn and grow with the developer community**.
+I'm always open to collaboration, hackathons, open-source projects, innovative ideas, and opportunities to learn and grow with the developer community.
 
-**✨ Learning with purpose. 🚀 Building with passion. 💡 Growing every day.**
+📧 Email: gavalidivya0@gmail.com
+💻 GitHub: gavalidivya0-arch
+💼 LinkedIn: Divya Gavali
 
