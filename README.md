@@ -34,6 +34,8 @@ I enjoy **learning by building** and experimenting with technologies that can so
 *  **AgriTech & Smart Farming**
 * **Real-World Technology Solutions**
 
+─────────────────────────────────────────────────────────────────────────────────────────
+
 ### 🎯 Career Focus
 
 My goal is to grow into a **skilled Software Engineer** capable of designing and developing reliable, scalable, and meaningful technology solutions.
