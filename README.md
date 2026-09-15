@@ -46,7 +46,7 @@ I'm focused on building a strong foundation in **programming, software engineeri
 
 I'm always open to **learning, collaboration, innovative projects, hackathons, and opportunities to contribute to the developer community.**
 
-───────────────────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────────────────────
 
 ### 🌐 Connect With Me
 
