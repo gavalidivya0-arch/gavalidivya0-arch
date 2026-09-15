@@ -8,7 +8,7 @@
 I'm **Divya Gavali**, a **B.Tech Computer Science Engineering student specializing in Data Science** at **Nxt Wave Institute of Advanced Technologies**, with an expected graduation year of **2029**.
 
 I'm passionate about **software development, data science, artificial intelligence, and building practical technology solutions**. I enjoy transforming ideas into responsive, interactive, and user-focused applications while continuously strengthening my programming and problem-solving abilities.
-───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────
 ### 🚀 Currently
 
 *  Learning and strengthening **Python & C++**
