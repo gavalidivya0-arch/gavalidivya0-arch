@@ -20,6 +20,8 @@ I'm passionate about **software development, data science, artificial intelligen
 *  Developing practical projects to gain hands-on experience
 *  Exploring **hackathons, open-source and collaborative opportunities**
 
+────────────────────────────────────────────────────────────────────────────────────────
+
 ### 💡 What I Do
 
 I enjoy **learning by building** and experimenting with technologies that can solve real-world problems. My interests span across:
