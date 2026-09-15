@@ -9,7 +9,6 @@ I'm **Divya Gavali**, a **B.Tech Computer Science Engineering student specializi
 
 I'm passionate about **software development, data science, artificial intelligence, and building practical technology solutions**. I enjoy transforming ideas into responsive, interactive, and user-focused applications while continuously strengthening my programming and problem-solving abilities.</br>
 
-────────────────────────────────────────────────────────────────────────────────────────
 ### 🚀 Currently
 
 *  Learning and strengthening **Python & C++**
@@ -19,8 +18,6 @@ I'm passionate about **software development, data science, artificial intelligen
 *  Improving **Data Structures, Algorithms & problem-solving**
 *  Developing practical projects to gain hands-on experience
 *  Exploring **hackathons, open-source and collaborative opportunities**
-
-────────────────────────────────────────────────────────────────────────────────────────
 
 ### 💡 What I Do
 
@@ -34,8 +31,6 @@ I enjoy **learning by building** and experimenting with technologies that can so
 *  **AgriTech & Smart Farming**
 * **Real-World Technology Solutions**
 
-─────────────────────────────────────────────────────────────────────────────────────────
-
 ### 🎯 Career Focus
 
 My goal is to grow into a **skilled Software Engineer** capable of designing and developing reliable, scalable, and meaningful technology solutions.
@@ -45,8 +40,6 @@ I'm focused on building a strong foundation in **programming, software engineeri
 > **Learn → Build → Solve → Improve → Repeat.**
 
 I'm always open to **learning, collaboration, innovative projects, hackathons, and opportunities to contribute to the developer community.**
-
-─────────────────────────────────────────────────────────────────────────────────────────
 
 ### 🌐 Connect With Me
 
